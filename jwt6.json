@@ -1,0 +1,7 @@
+{
+    "kty": "oct",
+    "use": "sig",
+    "kid": "HS256",
+    "k": "P440pNz2YJ7FEfFoLp68kx8sd90-rzqZ5yFlQt-7xKw",
+    "alg": "HS256"
+}
