@@ -1,5 +1,0 @@
-{
-    "alg": "none",
-    "kty": "oct",
-    "kid": "HS256"
-  }
