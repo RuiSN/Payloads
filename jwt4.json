@@ -1,6 +1,0 @@
-{
-    "alg": "none",
-    "kty": "none",
-    "kid": "HS256",
-    "k": "secret-key"
-  }
